@@ -27,5 +27,5 @@ Si es posible, añade capturas de pantalla para ayudar a explicar el problema.
 - Navegador: [e.g. Chrome, Safari]
 - Versión del software: [e.g. 22]
 
-**Información adicional**
+**Información adicional***
 Añade cualquier otro contexto sobre el problema aquí.
